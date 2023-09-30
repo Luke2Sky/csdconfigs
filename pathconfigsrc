@@ -1,0 +1,8 @@
+export CCDC_TOOLKIT_ASER_DATABASE="<CCDChome>/ccdc-data/csd"
+export CCDC_TOOLKIT_SQLITE_DATABASE="<CCDChome>/ccdc-data/csd/as544be_ASER.sqlite"
+export CCDC_ISOSTAR_DATA_DIRECTORY="<CCDChome>/ccdc-data/isostar"
+export CCDC_MOGUL_DATA="<CCDChome>/ccdc-data/mogul"
+export CCDC_MOGUL_INITIALISATION_FILE="<AnacondaEnvLocation>/csd-python-api/lib/python3.9/site-packages/ccdc/parameter_files/mogul.ini"
+export CCDC_CROSSMINER_DATABASE="<CCDChome>/ccdc-data/crossminer/csd_pdb_crossminer.feat"
+export CCDC_CROSSMINER_FEATURE_DEFINITION="<CCDChome>/ccdc-software/csd-crossminer/feature_definitions"
+export GOLD_DIR="<CCDChome>/ccdc-software/gold/GOLD"
